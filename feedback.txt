@@ -1,0 +1,5 @@
+This should be a link to a github repo, but ok.
+
+There's a lot going on in this notebook. The technical realisation is ok,  but I missing a clear description of the steps you have taken and an explanation why you have taken these. You also make a lot of interesting and accurate visualisations, but fail to deliver an interpretation and (sub)conclusions based on them.
+
+You should add these textual addition to the notebook and resubmit your work.
